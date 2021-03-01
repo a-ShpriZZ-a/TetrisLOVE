@@ -1,2 +1,2 @@
 cd C:\Program Files\LOVE\
-love.exe C:\Games\Brick\
+love.exe C:\Users\ShpriZZ\Documents\GitHub\TetrisLOVE
