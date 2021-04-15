@@ -1,7 +1,6 @@
 Figure = {}
 
-function Figure:new(type_, x_spawn_position)
-	require("Coordinates")
+function Figure:new(type_, x_spawn_position)  
 	local obj = {}
 
 	obj.a_positions = {} -- Ablolute cells coordinates.
